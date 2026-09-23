@@ -8,21 +8,26 @@ License.
 
 ## Standard price
 
-**USD 299 per commercial product or application**, unless the copyright holder
-agrees to different terms in writing.
+**USD 299 per licensee** — one individual or one legal entity — unless the
+copyright holder agrees to different terms in writing.
 
 Payment by itself is not sufficient: the commercial license becomes effective
 only after written confirmation from the copyright holder identifying the
-licensee and licensed product.
+licensee.
 
 ## What the USD 299 license permits
 
-For one identified commercial product/application, the licensee may:
+The licensed individual or legal entity may:
 
-- integrate Display Borders code or functionality into that product;
-- modify the code as reasonably required for that integration;
-- compile and distribute the integrated functionality as part of that product;
-- use the integration commercially in that licensed product.
+- integrate Display Borders code or functionality into the licensee's own
+  commercial products, applications, services, or devices;
+- modify the code as reasonably required for those integrations;
+- compile and distribute the integrated functionality as part of the
+  licensee's own products;
+- use those integrations commercially.
+
+The Display Borders functionality must be used as part of the licensee's own
+product functionality and may not be resold as Display Borders itself.
 
 The license is non-exclusive, non-transferable, and non-sublicensable.
 
@@ -31,23 +36,18 @@ The license is non-exclusive, non-transferable, and non-sublicensable.
 The commercial license does **not** permit the licensee to:
 
 - sell or redistribute Display Borders as a standalone product;
-- sell, publish, sublicense, relicense, or redistribute the Display Borders
-  source code as a standalone or separable codebase;
+- sell, publish, sublicense, relicense, or commercially redistribute the
+  Display Borders source code as a standalone or separable codebase;
 - sell Display Borders as an SDK, library, plugin, template, toolkit, or other
   separately marketable component;
-- make the Display Borders functionality separately extractable for resale;
-- grant third parties rights to reuse Display Borders outside the licensed
-  product;
+- package the Display Borders functionality as a separately extractable
+  component for resale or relicensing;
+- grant third parties independent rights to reuse Display Borders outside the
+  licensee's own products;
 - claim ownership of the original Display Borders code;
 - remove copyright or required attribution notices from source distributions;
 - use the Display Borders name or branding to imply endorsement without
   separate written permission.
-
-## Multiple products
-
-The standard USD 299 license covers **one commercial product/application**.
-A separate commercial license is required for each additional commercial
-product/application unless the copyright holder agrees otherwise in writing.
 
 ## Ownership
 
