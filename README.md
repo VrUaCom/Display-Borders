@@ -56,7 +56,18 @@ wm size reset
 wm scaling auto
 ```
 
+## Official app distribution
+
+The official compiled **Display Borders** application is distributed **free of
+charge through Google Play** by the copyright holder.
+
+Free end-user distribution of the official app does **not** place the source
+code in the public domain, does not make the project open source, and does not
+grant third parties the right to commercially redistribute, rebrand, sell, or
+license Display Borders.
+
 ## License
+
 
 **This is not an open-source license and commercial use is not included in the
 free license.**
