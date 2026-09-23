@@ -19,7 +19,18 @@ non-commercial purposes, provided that:
     its distribution; and
 (d) you do not impose terms that grant broader rights than this License.
 
-2. COMMERCIAL USE IS NOT GRANTED
+2. OFFICIAL FREE APPLICATION DISTRIBUTION
+The copyright holder may distribute the official compiled Display Borders
+application free of charge through Google Play or other channels chosen by the
+copyright holder. End users may download, install, and use that official
+application free of charge.
+
+This official free distribution does not transfer copyright, does not dedicate
+the Software to the public domain, does not make this License an open-source
+license, and does not grant third parties any additional right to sell,
+commercially redistribute, rebrand, sublicense, or relicense the Software.
+
+3. COMMERCIAL USE IS NOT GRANTED
 No commercial rights are granted by this License. "Commercial Use" includes,
 without limitation, use of the Software or any substantial portion of it:
 (a) in a product, application, service, device, SDK, library, or platform that
@@ -36,7 +47,7 @@ copyright holder. The standard listed price is USD 299 per licensee (individual
 or legal entity), unless the copyright holder agrees otherwise in writing.
 See COMMERCIAL-LICENSE.md.
 
-3. PROHIBITED ACTIVITIES
+4. PROHIBITED ACTIVITIES
 Without a separate written license from the copyright holder, you may not:
 (a) sell, rent, sublicense, relicense, or commercially redistribute the
     Software, its source code, binaries, or substantial portions thereof;
@@ -46,13 +57,13 @@ Without a separate written license from the copyright holder, you may not:
 (d) represent the original Software as your own work; or
 (e) use the Software in violation of applicable law.
 
-4. OWNERSHIP
+5. OWNERSHIP
 All title, copyright, and intellectual-property rights in and to the original
 Software remain with the copyright holder. Modifications made by you do not
 transfer ownership of the original Software or grant you any rights beyond
 those expressly stated in this License.
 
-5. COMMERCIAL LICENSES
+6. COMMERCIAL LICENSES
 A commercial license is effective only after the copyright holder has provided
 written confirmation identifying the licensee and the applicable license fee
 has been paid. Under the standard Commercial Integration License, the licensee
@@ -60,25 +71,25 @@ may integrate the Software into the licensee's own products as part of their
 functionality, subject to COMMERCIAL-LICENSE.md. A separate signed agreement
 may modify that scope.
 
-6. TERMINATION
+7. TERMINATION
 Your rights under this License terminate automatically if you violate its
 terms. Upon termination, you must stop all use and distribution of the Software
 except to the extent required by applicable law. The copyright holder may offer
 a written reinstatement at their sole discretion.
 
-7. NO WARRANTY
+8. NO WARRANTY
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
 FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT
 PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM,
 DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
 
-8. NO TRADEMARK LICENSE
+9. NO TRADEMARK LICENSE
 This License does not grant permission to use the Display Borders name, logos,
 or branding to imply endorsement, sponsorship, or origin of another product.
 Factual attribution is permitted.
 
-9. SEVERABILITY
+10. SEVERABILITY
 If any provision of this License is held unenforceable, the remaining
 provisions remain in effect to the maximum extent permitted by law.
 
