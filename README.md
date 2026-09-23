@@ -58,20 +58,22 @@ wm scaling auto
 
 ## License
 
-**This is not an open-source license and commercial use is not included.**
+**This is not an open-source license and commercial use is not included in the
+free license.**
 
 Copyright © 2026 Victor (GitHub: **VrUaCom**). All rights reserved.
 
 - Personal, educational, research, testing, and other non-commercial use is
   permitted under [`LICENSE`](LICENSE).
-- Commercial use requires a separate paid license.
-- Standard commercial integration price: **USD 299 per commercial product or
-  application**.
-- The paid license permits integration into the licensed product as part of its
+- Commercial use requires a separate paid Commercial Integration License.
+- Standard commercial license price: **USD 299 per licensee** (individual or
+  legal entity), unless otherwise agreed in writing.
+- The commercial license permits the licensee to integrate Display Borders code
+  or functionality into the licensee's own products as part of their
   functionality.
 - It does **not** permit resale, relicensing, sublicensing, or redistribution of
-  Display Borders itself as a standalone/separable product, SDK, library, or
-  codebase.
+  Display Borders itself as a standalone/separable product, SDK, library,
+  toolkit, or codebase.
 
 See [`COMMERCIAL-LICENSE.md`](COMMERCIAL-LICENSE.md) for the commercial terms.
 
