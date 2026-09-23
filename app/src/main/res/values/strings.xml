@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Display Borders</string>
+    <string name="service_name">Display Borders — рамки дисплею</string>
+    <string name="service_description">Зменшує логічну робочу область дисплея та залишає невикористані краї чорними.</string>
+</resources>
