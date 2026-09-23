@@ -6,6 +6,12 @@ The public repository is **not licensed for commercial use** under its free
 license. Commercial use requires a separate paid Commercial Integration
 License.
 
+The copyright holder may distribute the official compiled **Display Borders**
+application **free of charge through Google Play**. That free consumer
+distribution is separate from the commercial source-code/integration license
+described here and does not grant third parties a right to resell, rebrand, or
+commercially redistribute Display Borders itself.
+
 ## Standard price
 
 **USD 299 per licensee** — one individual or one legal entity — unless the
