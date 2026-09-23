@@ -32,8 +32,8 @@ without limitation, use of the Software or any substantial portion of it:
 (d) in any other activity primarily intended for commercial advantage.
 
 Commercial Use requires a separate Commercial Integration License from the
-copyright holder. The standard listed price is USD 299 per commercial product
-or application, unless the copyright holder agrees otherwise in writing.
+copyright holder. The standard listed price is USD 299 per licensee (individual
+or legal entity), unless the copyright holder agrees otherwise in writing.
 See COMMERCIAL-LICENSE.md.
 
 3. PROHIBITED ACTIVITIES
@@ -41,7 +41,7 @@ Without a separate written license from the copyright holder, you may not:
 (a) sell, rent, sublicense, relicense, or commercially redistribute the
     Software, its source code, binaries, or substantial portions thereof;
 (b) offer the Software as a standalone paid product, SDK, library, service,
-    template, or downloadable component;
+    template, toolkit, or downloadable component;
 (c) remove or obscure copyright, attribution, or license notices;
 (d) represent the original Software as your own work; or
 (e) use the Software in violation of applicable law.
@@ -54,9 +54,11 @@ those expressly stated in this License.
 
 5. COMMERCIAL LICENSES
 A commercial license is effective only after the copyright holder has provided
-written confirmation and the applicable license fee has been paid. Commercial
-rights are limited to the scope stated in that written confirmation and in
-COMMERCIAL-LICENSE.md unless a separate signed agreement states otherwise.
+written confirmation identifying the licensee and the applicable license fee
+has been paid. Under the standard Commercial Integration License, the licensee
+may integrate the Software into the licensee's own products as part of their
+functionality, subject to COMMERCIAL-LICENSE.md. A separate signed agreement
+may modify that scope.
 
 6. TERMINATION
 Your rights under this License terminate automatically if you violate its
